@@ -7,11 +7,10 @@ Currently, I'm studying for a master's degree in Computer Science and Technology
 - :clapper: Currenly Working 
   - Semantic Segmentation for Aerial Images
   - AI + X Deep Learning Platform
-- Done Projects \[[Details](https://github.com/Shuai-Xie/Shuai-Xie/blob/master/Details.md)]
-  - Wali : Autonomous Driving for Turtblebot2 with Indoor Semantic Segmentation. [Code](https://github.com/Shuai-Xie/Wali-turtlebot)
-  - New Retail : Retail Product Detection with Point-based Detection Network
-  - Multiple Person Pose Estimation and Dangerous Action Recognition
-  - Rail Transit : Aerial Image Object Detection and Scene Classification
+- Projects
+  - DEAL : Difficulty-aware Active Learning for Semantic Segmentaion, ACCV2020. [code](https://github.com/Shuai-Xie/DEAL)
+  - SegHZ : Aerial Image Segmentation. [code](https://github.com/Shuai-Xie/SegHZ)
+  - Wali : Autonomous Driving for Turtblebot2 with Indoor Semantic Segmentation. [code](https://github.com/Shuai-Xie/Wali-turtlebot)
 
 
 
