@@ -1,4 +1,4 @@
-😄 Hi, I'm Shuai Xie, a CS master student graduated from Zhejiang University.
+Hi, I'm Shuai Xie, a CS master student graduated from Zhejiang University.
 
 - 🎯 I’m currently working on Cloud-native Large Scale End2End Machine Learning System.
 - 🎨 I’m currently learning kubernetes and kubeflow.
